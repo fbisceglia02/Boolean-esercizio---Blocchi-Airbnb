@@ -1,0 +1,67 @@
+body{
+    margin:0px;
+}
+#berlino{
+    background-image: url("../img/Berlino.jpg");
+    background-size: cover;
+}
+#berlinoo{
+    width:139.183px;
+    height:65.867px;
+    position:absolute;
+    margin-left:44.65vw;
+    margin-top:44.3vh;
+    background-color: black;
+    opacity: 60%;
+}
+
+
+
+
+#parigi{
+    background-image: url("../img/Parigi.jpg");
+    background-size: cover;
+}
+#parigio{
+    width:114.756px;
+    height:65.867px;
+    position:absolute;
+    margin-left:44.5vw;
+    margin-top:44.3vh;
+    background-color: black;
+    opacity: 60%;
+}
+
+
+
+
+#venosa{
+    background-image: url("../img/Venosa.jpg");
+    background-size: cover;
+
+}
+#venosao{
+    width:134.739px;
+    height:65.867px;
+    position:absolute;
+    margin-left:44.7vw;
+    margin-top:44.3vh;
+    background-color: black;
+    opacity: 60%;
+
+}
+
+
+.imgs{
+    border: 1px solid black;
+    width: 100vw;
+    height: 100vh;
+}
+
+.scritte{
+    font-size: 40px;
+    position:absolute;
+    margin-left:45vw;
+    margin-top:45vh;
+    color: white;
+}
